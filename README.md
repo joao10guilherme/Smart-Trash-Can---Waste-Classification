@@ -1,1 +1,1 @@
-# Smart-Trash-Can---Waste-Classification
+# Smart-Trash-Can-Waste-Classification
